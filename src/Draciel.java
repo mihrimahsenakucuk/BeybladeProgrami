@@ -20,7 +20,7 @@ public class Draciel extends Beyblade {
     @Override
     public void kutsalCanavarOrtayaCikar() {
         System.out.println(getBeybladeci() + " " + kutsalCanavar + " i ortaya çıkarıyor.");
-        System.out.println(getBeybladeci() + "in Savunması: Kale Savunması");
+        System.out.println(getBeybladeci() + " in Savunması: Kale Savunması");
     }
 
 
